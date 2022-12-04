@@ -1,0 +1,71 @@
+{
+  "empleados": [
+    {
+      "id": 11,
+      "nombre": "Hector Renato",
+      "apellido": "Salinas Garcia",
+      "cargo": "Ejecutivo de ventas",
+      "telefono": 982075523
+    },
+    {
+      "id": 51,
+      "nombre": "Juan Edgardo",
+      "apellido": "Perez Garcia",
+      "cargo": "Encargado de ventas",
+      "telefono": 972025593
+    },
+    {
+      "id": 31,
+      "nombre": "Ricardo Luis",
+      "apellido": "Matto Perez",
+      "cargo": "Comunity Manager",
+      "telefono": 982074513
+    },
+    {
+      "id": 18,
+      "nombre": "Juan Joel",
+      "apellido": "Matias Ramirez",
+      "cargo": "Encargado de almacen",
+      "telefono": 912075623
+    },
+    {
+      "id": 71,
+      "nombre": "Ken Joel",
+      "apellido": "Parreño Lux",
+      "cargo": "Coordinador de ventas",
+      "telefono": 952076511
+    },
+    {
+      "id": 61,
+      "nombre": "Juan Aurelio",
+      "apellido": "Garcia Salinas",
+      "cargo": "Ventas en linea",
+      "telefono": 955071523
+    },
+    {
+      "id": 17,
+      "nombre": "Joaquin Edgardo",
+      "apellido": "Luque Garcia",
+      "cargo": "Gerente de compras",
+      "telefono": 955275523
+    },
+    {
+      "id": 10,
+      "nombre": "Veronica Milenne",
+      "apellido": "Arango Ramos",
+      "cargo": "Coordinador de ventas cooporativas",
+      "telefono": 951071123
+    },
+    {
+      "id": 22,
+      "nombre": "Zarella Met",
+      "apellido": "Arango Gonzales",
+      "cargo": "Ventas en linea",
+      "telefono": 912079923
+    }
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
